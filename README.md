@@ -1,4 +1,4 @@
-# docker-base
+# php-docker-base
 ## Summary
 
 Base local configuration for non-Laravel PHP applications.
